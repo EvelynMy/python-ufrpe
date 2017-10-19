@@ -18,4 +18,6 @@ Projetos em python desenvolvidos durante a graduação em BSI na UFRPE
     https://github.com/ItaloSa/python_ufrpe/blob/master/Fatorial.py
     - Maratona -> E2 Run.Codes
     https://github.com/ItaloSa/python_ufrpe/blob/master/Maratona.py
+    - Inverso Modular -> Sala
+    https://github.com/ItaloSa/python_ufrpe/blob/master/InversoModular.py
     

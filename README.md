@@ -20,4 +20,6 @@ Projetos em python desenvolvidos durante a graduação em BSI na UFRPE
     https://github.com/ItaloSa/python_ufrpe/blob/master/Maratona.py
     - Inverso Modular -> Sala
     https://github.com/ItaloSa/python_ufrpe/blob/master/InversoModular.py
+    - Quebrando a Banca -> Sala
+    https://github.com/ItaloSa/python_ufrpe/blob/master/Quebrando_a_Banca.py
     

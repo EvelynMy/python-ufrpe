@@ -18,3 +18,4 @@ for i in range(T):
 		print('Caso %d: Muito difícil' %(cnt))
 	
 	
+	
